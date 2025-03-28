@@ -56,6 +56,7 @@ Awesome list about all kinds of interesting topics: Laws, Principles, Mental Mod
     - [The Fallacies of Distributed Computing](#the-fallacies-of-distributed-computing)
   - [Mental Models](#mental-models)
   - [Cognitive Biases](#cognitive-biases)
+  - [Psychological Concepts](#psychological-concepts) 
   - [UX Laws](#ux-laws)
   - [Fallacies](#fallacies)
     - [Perverse Incentive](#perverse-incentive)
@@ -894,6 +895,10 @@ Thinking is a lot of work. “My first thought,” William Deresiewicz said in o
 ## Cognitive Biases
 
 https://en.wikipedia.org/wiki/List_of_cognitive_biases
+
+## Psychological Concepts
+
+[Psywellpath glossary](https://glossary.psywellpath.com)
 
 ## UX laws
 
